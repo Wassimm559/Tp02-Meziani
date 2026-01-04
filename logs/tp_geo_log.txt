@@ -1,0 +1,26 @@
+[2025-11-13 16:44:39] 🔽 Téléchargement du dataset GSE11121 depuis NCBI GEO...
+[2025-11-13 16:45:14] ✅ Téléchargement terminé.
+[2025-11-13 16:45:14] Titre de l'étude : The humoral immune system has a key prognostic impact in node-negative breast cancer
+[2025-11-13 16:45:14] Nombre d'échantillons : 200
+[2025-11-13 16:45:14] 📊 Extraction et fusion des données d’expression...
+[2025-11-13 16:45:15] ✅ Fusion réussie : 22283 gènes, 200 échantillons.
+[2025-11-13 16:45:15] 📈 Calcul des statistiques descriptives...
+[2025-11-13 16:45:15] ✅ Statistiques enregistrées dans results/summary_stats.txt
+[2025-11-13 16:45:15] 📊 Histogramme sauvegardé dans results/hist_expression.png
+[2025-11-13 16:45:15] 🧠 Génération d'une heatmap avec clustering...
+[2025-11-13 16:45:16] 🔥 Heatmap sauvegardée dans results/heatmap_clustering.png
+[2025-11-13 16:45:19] ✅ Données exportées dans results/expression_cleaned.csv
+[2025-11-13 16:45:19] 🎉 TP exécuté avec succès ! Consultez le dossier results/.
+[2025-11-13 16:54:21] 🔽 Téléchargement du dataset GSE11121 depuis NCBI GEO...
+[2025-11-13 16:54:30] ✅ Téléchargement terminé.
+[2025-11-13 16:54:30] Titre de l'étude : The humoral immune system has a key prognostic impact in node-negative breast cancer
+[2025-11-13 16:54:30] Nombre d'échantillons : 200
+[2025-11-13 16:54:30] 📊 Extraction et fusion des données d’expression...
+[2025-11-13 16:54:31] ✅ Fusion réussie : 22283 gènes, 200 échantillons.
+[2025-11-13 16:54:31] 📈 Calcul des statistiques descriptives...
+[2025-11-13 16:54:31] ✅ Statistiques enregistrées dans results/summary_stats.txt
+[2025-11-13 16:54:31] 📊 Histogramme sauvegardé dans results/hist_expression.png
+[2025-11-13 16:54:31] 🧠 Génération d'une heatmap avec clustering...
+[2025-11-13 16:54:32] 🔥 Heatmap sauvegardée dans results/heatmap_clustering.png
+[2025-11-13 16:54:36] ✅ Données exportées dans results/expression_cleaned.csv
+[2025-11-13 16:54:36] 🎉 TP exécuté avec succès ! Consultez le dossier results/.
